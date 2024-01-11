@@ -1,0 +1,19 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+body {
+    font-family: 'Heebo', sans-serif;
+}
+
+@font-face {
+    font-family: 'Aptos Black';
+    src: url('../assets/fonts/aptos-black.ttf') format('truetype'); /* Ajusta la ruta y el formato según tus necesidades */
+    font-weight: 900; /* Puede variar dependiendo de la fuente */
+    font-style: normal;
+}
+
+h1, h2, h3 {
+    font-family: 'Poppins', sans-serif;
+}
